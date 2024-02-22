@@ -1,4 +1,4 @@
-#Anushree Patil
+#Anushree_Patil
 # VSDSQUADRON-MINI
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 
