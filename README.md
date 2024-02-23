@@ -48,8 +48,8 @@ This repo is intended to document the weekly progress.
 ```sudo apt install git-all```   # To install git
 
 ```sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev``` *make sure to install the dependencies*
-![WhatsApp Image 2024-02-21 at 4 30 47 PM](https://github.com/abhiram-0301/abhiramk/assets/149863256/95144325-696f-476c-9666-93337a29fea2)
 
+![Screenshot from 2024-02-22 16-11-05](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/4001f438-f3d5-40bc-b5bf-421c2d0b66ee)
 
 ```git clone https://github.com/riscv/riscv-gnu-toolchain```
 
@@ -79,8 +79,7 @@ make config-gcc
 make 
 sudo make install
 ```
-![WhatsApp Image 2024-02-21 at 4 29 42 PM](https://github.com/abhiram-0301/abhiramk/assets/149863256/584aceb3-5f24-415e-8b87-547b8d122352)
-
+![Screenshot from 2024-02-23 14-07-30](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/aa7270d4-bda6-4cfb-939f-602e6c14fceb)
 
 ### iVerilog
 
@@ -88,12 +87,11 @@ sudo make install
 sudo apt-get install iverilog
 ```
 
-![WhatsApp Image 2024-02-21 at 4 28 40 PM](https://github.com/abhiram-0301/abhiramk/assets/149863256/1a7e28ce-0b53-4679-8ef2-804b0e30954e)
+![Screenshot from 2024-02-23 14-08-11](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/14f5f52c-78df-48d2-adc3-8cef3a52424f)
 
 
 ### GTkWave
 ``` sudo apt-get install gtkwave ```
 
-![WhatsApp Image 2024-02-21 at 4 26 53 PM](https://github.com/abhiram-0301/abhiramk/assets/149863256/534f3028-5a94-4cd9-abf1-ade3b9ffd6db)
-
+![Screenshot from 2024-02-23 14-27-40](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/ec09f2ac-93dc-4962-93ec-8b4143a469a9)
 
