@@ -1,21 +1,60 @@
-Meeting Held on: 27/02/2024
-
-The C code should undergo the simulation of normal GCC X86 Compiler and riscv compiler (SPIKE Simulation)
-
-AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)
-
-![Screenshot 2024-02-28 205810](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/8ac828fa-68d3-4881-abc5-d95e437be4c6)
-
-Step - 1: To Run the code in the normal GCC Compiler To compile the code: gcc sum1ton.c -o sum1ton To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
-
-Step - 2: To Run the code in the RISC-V GCC Compiler
-
-To compile the code: riscv64-unknown-elf-gcc -o sum1ton sum1ton.c To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
-
-![Screenshot 2024-02-28 213637](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/d7bbf445-f06d-4ac5-b83a-c4964b37e63b)
+**Task 4**
+**  Instructions to get the gtkwave window**
 
 
-![Screenshot 2024-02-28 213707](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/e754998f-4c3a-4900-b7ab-5955ff242863)
+ls - to check the contents of the folder
+
+![Screenshot 2024-03-20 182119](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/0ac37699-5ccb-4c9c-adca-69a29cc24ac0)
+**gtkwave anushree.vcd**
+
+![Screenshot 2024-03-20 183356](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/1d66d584-f4ec-4d6e-917e-69d902a2a3dc)
 
 
-![Screenshot 2024-02-28 213736](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/12e4e161-9f47-42a6-919e-f44df6c2ec34)
+![Screenshot 2024-03-20 183113](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/2caaa612-5512-437b-bcac-0c3914435679)
+
+**after running the command
+gtkwave anushree.vcd**
+
+
+![Screenshot 2024-03-20 184202](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/dd175801-3eba-49fb-92fa-126fe98f2393)
+
+**All the Output's of Operation's**
+
+![Screenshot 2024-03-20 184747](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/93dceabc-90ae-4ade-98f4-5d56e49d77e3)
+
+
+![Screenshot 2024-03-20 184909](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/29910764-ed9f-4891-9157-afdef0f27f41)
+
+![Screenshot 2024-03-20 185032](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/d2ba9280-17e3-494d-a04f-6a22cbd01b61)
+
+![Screenshot 2024-03-20 185154](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/3fa60f22-9810-4abf-8fdf-423f734e7d0a)
+
+
+
+![Screenshot 2024-03-20 185308](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/f8de31c8-5937-451f-a495-05c0da71f23d)
+
+
+![Screenshot 2024-03-20 185605](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/682e9292-e03e-4dcb-8613-4adf3b4d1101)
+
+
+**Output showing the XOR Operation**
+
+
+
+![Screenshot 2024-03-20 185857](https://github.com/anushreepatilgithub/VSDSQUADRON-MINI/assets/160833293/99c80e12-d7d8-4ce1-9c6a-17b4f47e479a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
